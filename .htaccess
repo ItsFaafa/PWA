@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Passwortgeschütztes Verzeichnis"
+AuthUserFile /var/www/vhosts/hosting155163.a2ee5.netcup.net/httpdocs/dev.lokaler-horst.de/.htpasswd
+Require valid-user
